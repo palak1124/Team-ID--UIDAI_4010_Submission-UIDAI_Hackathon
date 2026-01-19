@@ -1,7 +1,5 @@
 # Team-ID--UIDAI_4010_Submission-UIDAI_Hackathon
 
-# Aadhaar Enrolment and Update Analysis
-
 ## Project Overview
 This repository contains a data analysis project based on Aadhaar enrolment and update data published by the Unique Identification Authority of India (UIDAI). The objective of the project is to study enrolment trends, update patterns, and regional operational load across states and districts in India.
 
