@@ -29,6 +29,10 @@ Derived metrics such as update-to-enrolment ratio and updates per 1,000 enrolmen
 ## Tools Used
 - Power BI for data modelling and visualisation
 - Excel / Power Query for preprocessing
+<img width="1331" height="740" alt="image" src="https://github.com/user-attachments/assets/4b9086c2-1994-4f01-a8d4-a576498a80af" />
+
+<img width="1469" height="737" alt="image" src="https://github.com/user-attachments/assets/9affe8ab-1b6a-4034-9e42-801020392f5a" />
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/23276e06-ab78-4977-818c-155f38fa81da" />
 
 ## Key Insights
 - Aadhaar updates significantly exceed new enrolments, indicating a maintenance-driven system.
